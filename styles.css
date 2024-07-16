@@ -1,0 +1,77 @@
+body {
+    background: #000000;
+}
+
+#wrapper {
+    font-family: "Arial, Helvetica, Verdanna", sans-serif;
+    color: #F1E3E3;
+    width: auto;
+    height: auto;
+    max-height: 2200px;
+    min-height: 1100px;
+    background: #2C2929;
+    margin: 8px;
+}
+
+h1 {
+    margin: inherit;
+    text-align: center;
+}
+
+h2 {
+    margin: 16px 8px 16px 8px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    margin: inherit;
+    text-align: center;
+}
+
+#disclaimer {
+    text-align: center;
+    font-style: italic;
+}
+
+#number-entry {
+    width: 180px;
+    margin: 8px auto 0 auto;
+}
+
+#number {
+    width: 175px;
+    height: 30px;
+    margin: 16px auto 8px auto;
+    background-color: #F4F3F3;
+    border-radius: 4px;
+}
+
+#buttons {
+    width: 142px;
+    margin: 8px auto 0 auto;
+}
+
+button {
+    width: 66px;
+    height: 24px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+#convert-btn {
+    background-color: #7DDA58;
+}
+
+#clear-btn {
+    background-color: #EF4A4C;
+}
+
+#output {
+    font-family: "Times New Roman", serif;
+    font-size: 24px;
+    background-color: #F4F3F3;
+    color: #000000;
+    text-align: center;
+    border-radius: 4px;
+}
